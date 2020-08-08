@@ -1,19 +1,6 @@
 -- [[
   Demon Slayer Script by BytecodexDev
 ]]
-
--- Configurations
-_G.Settings = {
-  AutofarmEnabled = true;
-  KillAuraEnabled = true;
-}
-_G.Variables = {
-  JumpPower = 200;
-  Walkspeed = 200;
-  AutofarmSpeed = 1 -- [1-10] - 1 being the fastest and 10 being the slowest.
-}
--- Demon Slayer RPG 2 Scripts made by Bytecodex
---
 _G.Settings = {
   AutofarmEnabled = true;
   KillAuraEnabled = true;
